@@ -2,8 +2,7 @@
 
 ## 题目详情
 
-- 
-- **Source Code**
+- Just For Func
 
 ## 考点
 
